@@ -1,3 +1,3 @@
 # hello-world
 Testing
-This is just a atesrs of an editted file
+This is just a test of an editted file
